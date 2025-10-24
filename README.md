@@ -32,7 +32,7 @@ def mostrar_menu():
 """)
     
 #========== FUNCIONES ==========
-# 1 Registrar nuevo curso
+# 1. Registrar nuevo curso
 def registrar_curso():
     """Permite al usuario agregar un nuevo curso con su nota"""
     nombre = input("Ingrese el nombre del curso: ").strip()
